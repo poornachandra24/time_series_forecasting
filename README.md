@@ -5,7 +5,7 @@ This project aims to forecast energy consumption using historical hourly data of
 
 ## Files Included:
 - `PJME_hourly.csv`: The dataset containing hourly energy consumption data.
-- `energy_consumption_forecasting.ipynb`: Jupyter Notebook file containing the Python code for data preprocessing, feature engineering, model training, and prediction.
+- `energy_prediction.ipynb`: Jupyter Notebook file containing the Python code for data preprocessing, feature engineering, model training, and prediction.
 - `README.md`: This file, providing an overview of the project and instructions for running the code.
 
 ## Dependencies:
